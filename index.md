@@ -14,4 +14,6 @@
 </head>
 <body>
   <h1> Are you ready to run the road? </h1>
+    
+    <p> Whether you're aiming to run a mile without stopping, or break 3 hours in the marathon, I am here to guide you to your goals! </p>
   </body>
